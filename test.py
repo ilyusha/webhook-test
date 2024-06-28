@@ -1,2 +1,5 @@
 def func():
-	print("hello")
+	print("hello again")
+
+def func2():
+	print("new function")
